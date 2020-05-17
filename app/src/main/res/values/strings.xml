@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AD 340 Weather</string>
+    <string name="text_view_enter_zip">Enter your zip code</string>
+    <string name="edit_text_enter_zip">Type here</string>
+    <string name="button_enter">Submit</string>
+    <string name="invalid_zip_code">Please enter a valid zip code</string>
+    <string name="image_view_zip_image_content_description">Zip code image</string>
+    <string name="edit_text_zip_code_hint">Ex: 98103</string>
+    <string name="forecast_clicked_format">Forecast: %1$.2f %2$s</string>
+    <string name="sunny_forecast">Sunny</string>
+    <string name="initial_temperature">70.0</string>
+    <string name="forecast_details">Forecast Details</string>
+    <string name="settings_menu_display_units">Display Units</string>
+</resources>
