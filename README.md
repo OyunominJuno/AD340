@@ -1,4 +1,7 @@
 # AD340
-Code for AD 340 - 5210 Mobile Application Development
-
-Juno (Oyunomin) Munkhkhurel
+Project Code for the AD340 Mobile App Development <br>
+Juno Munkhkhurel
+<br><br>
+Weather App 
+<br>
+So far the zip code user input and validation has been done
