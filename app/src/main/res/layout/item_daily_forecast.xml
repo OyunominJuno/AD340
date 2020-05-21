@@ -7,7 +7,6 @@
     android:layout_height="80dp"
     android:layout_margin="10dp"
     android:layout_marginBottom="5dp"
-    android:background="@color/view_holder_forecast"
     android:foreground="?attr/selectableItemBackground"
     android:clickable="true">
 
@@ -39,7 +38,6 @@
         android:id="@+id/forecast_icon"
         android:layout_width="@dimen/forecast_icon"
         android:layout_height="@dimen/forecast_icon"
-        android:src="@drawable/ic_sentiment_very_satisfied_yellow_24dp"
         android:contentDescription="@string/sunny_forecast"
         app:layout_constraintBottom_toBottomOf="@+id/descriptionText"
         app:layout_constraintEnd_toEndOf="parent"

@@ -16,8 +16,10 @@ import androidx.lifecycle.Observer
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.ad340.details.ForecastDetailsActivity
+import com.example.ad340.forecast.CurrentForecastFragment
+import com.example.ad340.location.LocationEntryFragment
 
-class MainActivity : AppCompatActivity() {
+class MainActivity : AppCompatActivity(), AppNavigator {
 
     private val forecastRepository = ForecastRepository()
     private lateinit var tempDisplaySettingManager: TempDisplaySettingManager
@@ -29,30 +31,10 @@ class MainActivity : AppCompatActivity() {
 
         tempDisplaySettingManager = TempDisplaySettingManager(this)
 
-        val editTextZipCode : EditText = findViewById(R.id.editTextZipCode)
-        val enterButtonZipCode : Button = findViewById(R.id.buttonZipCode)
-
-        enterButtonZipCode.setOnClickListener {
-            val textZipCode : String = editTextZipCode.text.toString()
-            if (textZipCode.length != 5) {
-                Toast.makeText(this, R.string.invalid_zip_code, Toast.LENGTH_SHORT).show()
-            } else {
-                forecastRepository.loadForecast(textZipCode)
-            }
-        }
-
-        val recyclerViewForecast: RecyclerView = findViewById(R.id.recyclerViewForecast)
-        recyclerViewForecast.layoutManager = LinearLayoutManager(this)
-        val dailyForecastAdapter = DailyForecastAdapter(tempDisplaySettingManager) {forecastItem ->
-            showForecastDetails(forecastItem)
-        }
-        recyclerViewForecast.adapter = dailyForecastAdapter
-
-        val weeklyForecastObserver = Observer<List<DailyForecast>> {forecastItems ->
-            //update our weekly adapter
-            dailyForecastAdapter.submitList(forecastItems)
-        }
-        forecastRepository.weeklyForecast.observe(this, weeklyForecastObserver)
+        supportFragmentManager
+            .beginTransaction()
+            .add(R.id.fragmentContainer, LocationEntryFragment())
+            .commit()
 
     }
 
@@ -80,4 +62,17 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+    override fun navigateToCurrentForecast(zipcode: String) {
+        supportFragmentManager
+            .beginTransaction()
+            .replace(R.id.fragmentContainer, CurrentForecastFragment.newInstance(zipcode))
+            .commit()
+    }
+
+    override fun navigateToLocationEntry() {
+        supportFragmentManager
+            .beginTransaction()
+            .replace(R.id.fragmentContainer, LocationEntryFragment())
+            .commit()
+    }
 }
