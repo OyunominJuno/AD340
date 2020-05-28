@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Oyunomin\\.gradle\\caches\\transforms-2\\files-2.1\\cb49f5e2837fede7893f9c5340e481b7\\material-1.1.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\Oyunomin\\.gradle\\caches\\transforms-2\\files-2.1\\32afa404d5c95a49be177c4094e5462c\\material-1.1.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Oyunomin\\.gradle\\caches\\transforms-2\\files-2.1\\aa9e18d12c5afb35dcd731ed91706877\\appcompat-1.1.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\Oyunomin\\.gradle\\caches\\transforms-2\\files-2.1\\37786c2a4ff770e1791860fef545be07\\appcompat-1.1.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

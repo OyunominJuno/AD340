@@ -11,11 +11,11 @@
 9-->C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:5:5-25:19
+11-->C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:5:5-20:19
 12        android:allowBackup="true"
 12-->C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.2.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\4b9870924e6a59106ae571b6074fa673\core-1.2.0\AndroidManifest.xml:24:18-86
+13-->[androidx.core:core:1.2.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\f52155073fac6a26c46847a656082601\core-1.2.0\AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:extractNativeLibs="false"
 16        android:icon="@mipmap/ic_launcher"
@@ -26,27 +26,22 @@
 18-->C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:9:9-54
 19        android:supportsRtl="true"
 19-->C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:10:9-35
-20        android:testOnly="true"
-21        android:theme="@style/AppTheme" >
-21-->C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:11:9-40
-22        <activity android:name="com.example.ad340.details.ForecastDetailsActivity" >
-22-->C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:13:9-16:20
-22-->C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:14:13-60
-23        </activity>
-24        <activity android:name="com.example.ad340.MainActivity" >
-24-->C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:18:9-24:20
-24-->C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:18:19-47
-25            <intent-filter>
-25-->C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:19:13-23:29
-26                <action android:name="android.intent.action.MAIN" />
-26-->C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:20:17-69
-26-->C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:20:25-66
-27
-28                <category android:name="android.intent.category.LAUNCHER" />
-28-->C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:22:17-77
-28-->C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:22:27-74
-29            </intent-filter>
-30        </activity>
-31    </application>
-32
-33</manifest>
+20        android:theme="@style/AppTheme" >
+20-->C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:11:9-40
+21        <activity android:name="com.example.ad340.MainActivity" >
+21-->C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:13:9-19:20
+21-->C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:13:19-47
+22            <intent-filter>
+22-->C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:14:13-18:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:15:17-69
+23-->C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:15:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:17:17-77
+25-->C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:17:27-74
+26            </intent-filter>
+27        </activity>
+28    </application>
+29
+30</manifest>

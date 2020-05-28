@@ -1,5 +1,29 @@
 [
     {
+        "merged": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_wb_cloudy_gray_24dp.xml.flat",
+        "source": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\src\\main\\res\\drawable\\ic_wb_cloudy_gray_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_place_dark_red_24dp.xml.flat",
+        "source": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\src\\main\\res\\drawable\\ic_place_dark_red_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_nav.xml.flat",
+        "source": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\src\\main\\res\\menu\\main_nav.xml"
+    },
+    {
         "merged": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
@@ -20,16 +44,8 @@
         "source": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forecast_details.xml.flat",
-        "source": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\src\\main\\res\\layout\\activity_forecast_details.xml"
-    },
-    {
-        "merged": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_place_dark_red_24dp.xml.flat",
-        "source": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\src\\main\\res\\drawable\\ic_place_dark_red_24dp.xml"
-    },
-    {
-        "merged": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_forecast_details.xml.flat",
+        "source": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\src\\main\\res\\layout\\fragment_forecast_details.xml"
     },
     {
         "merged": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -44,20 +60,16 @@
         "source": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
         "merged": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\build\\intermediates\\res\\merged\\debug\\navigation_main_nav.xml.flat",
+        "source": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\src\\main\\res\\navigation\\main_nav.xml"
     },
     {
-        "merged": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
         "merged": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
@@ -66,6 +78,10 @@
     {
         "merged": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_current_forecast.xml.flat",
         "source": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\src\\main\\res\\layout\\fragment_current_forecast.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_weekly_forecast.xml.flat",
+        "source": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\src\\main\\res\\layout\\fragment_weekly_forecast.xml"
     },
     {
         "merged": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
