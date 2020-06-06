@@ -58,13 +58,13 @@
                       </LayoutPositions>
                     </value>
                   </entry>
-                  <entry key="weekForecastFragment3">
+                  <entry key="weeklyForecastFragment">
                     <value>
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-                            <option name="x" value="-180" />
-                            <option name="y" value="184" />
+                            <option name="x" value="12" />
+                            <option name="y" value="12" />
                           </Point>
                         </option>
                         <option name="myPositions">

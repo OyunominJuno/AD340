@@ -1,15 +1,17 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:2:1-22:12
+ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:2:1-25:12
 MERGED from [androidx.navigation:navigation-ui-ktx:2.2.2] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\9c05bd8eda8c4160ad4418d51d9e7c05\navigation-ui-ktx-2.2.2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-ui:2.2.2] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\5cdcfcda439c6160d52d13ffce1cb8c3\navigation-ui-2.2.2\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\32afa404d5c95a49be177c4094e5462c\material-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\37786c2a4ff770e1791860fef545be07\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.2.2] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\a78f19e23b08bc6bef77658cee5bb53a\navigation-fragment-ktx-2.2.2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\90f9d0c4ae9956697ef4599209fd3cdd\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [io.coil-kt:coil:0.11.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\f7a6b793ee973379032fcdc591fb1e32\jetified-coil-0.11.0\AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil-base:0.11.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\d289715f4633762e73cd3752ca17d927\jetified-coil-base-0.11.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.navigation:navigation-runtime-ktx:2.2.2] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\421f9c63d88d2ab48e985258bb3ccf57\navigation-runtime-ktx-2.2.2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\4c881eccb323b8e9386b706b252004c4\jetified-activity-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\5459a75e08b0e068385da9e225b058a3\jetified-core-ktx-1.2.0\AndroidManifest.xml:2:1-9:12
@@ -51,30 +53,35 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\Oyunomin\.gradle\caches\transf
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\79c4f828862ce77f3e263f5c4c96d23b\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\32fb3add8e56917708767b687b189e15\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\19ef9ea36245a483b50a1d600966f2d3\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\e40f81e35ea0ba33ce3a2fbdda24b3ea\exifinterface-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\23727db34776b194b240655ebe8518de\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\78409abe9ecf92623f23b5acbe165fe4\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\fdb9fd88b7479c1bbce51fd8473d7b05\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\04ec8bfbd31df4a7e5b48b6444d26fd5\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\78409abe9ecf92623f23b5acbe165fe4\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\52a8a801579aee5d27c4333ee1a5400a\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:2:1-25:12
 	package
 		ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:3:5-32
 		INJECTED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:2:1-22:12
+		ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:2:1-25:12
 		INJECTED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:2:1-22:12
+		ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:2:1-25:12
 		INJECTED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:5:5-20:19
+ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:7:5-23:19
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\32afa404d5c95a49be177c4094e5462c\material-1.1.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\32afa404d5c95a49be177c4094e5462c\material-1.1.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\584e4d498d076f60fadf6be8438cc067\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
@@ -86,31 +93,33 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Oy
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.2.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\f52155073fac6a26c46847a656082601\core-1.2.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:10:9-41
 	android:roundIcon
-		ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:11:9-54
 	android:icon
-		ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:13:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:14:9-44
 activity#com.example.ad340.MainActivity
-ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:13:9-19:20
+ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:16:9-22:20
 	android:name
-		ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:13:19-47
+		ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:16:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:14:13-18:29
+ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:15:17-69
+ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:15:25-66
+		ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:17:17-77
+ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:17:27-74
+		ADDED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml:20:27-74
 uses-sdk
 INJECTED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml
@@ -127,6 +136,10 @@ MERGED from [androidx.navigation:navigation-fragment-ktx:2.2.2] C:\Users\Oyunomi
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.2.2] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\a78f19e23b08bc6bef77658cee5bb53a\navigation-fragment-ktx-2.2.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\90f9d0c4ae9956697ef4599209fd3cdd\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\90f9d0c4ae9956697ef4599209fd3cdd\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [io.coil-kt:coil:0.11.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\f7a6b793ee973379032fcdc591fb1e32\jetified-coil-0.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil:0.11.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\f7a6b793ee973379032fcdc591fb1e32\jetified-coil-0.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:0.11.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\d289715f4633762e73cd3752ca17d927\jetified-coil-base-0.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:0.11.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\d289715f4633762e73cd3752ca17d927\jetified-coil-base-0.11.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.navigation:navigation-runtime-ktx:2.2.2] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\421f9c63d88d2ab48e985258bb3ccf57\navigation-runtime-ktx-2.2.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-runtime-ktx:2.2.2] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\421f9c63d88d2ab48e985258bb3ccf57\navigation-runtime-ktx-2.2.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\4c881eccb323b8e9386b706b252004c4\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -209,14 +222,16 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\O
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\32fb3add8e56917708767b687b189e15\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\19ef9ea36245a483b50a1d600966f2d3\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\19ef9ea36245a483b50a1d600966f2d3\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\e40f81e35ea0ba33ce3a2fbdda24b3ea\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\e40f81e35ea0ba33ce3a2fbdda24b3ea\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\23727db34776b194b240655ebe8518de\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\23727db34776b194b240655ebe8518de\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\78409abe9ecf92623f23b5acbe165fe4\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\78409abe9ecf92623f23b5acbe165fe4\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\fdb9fd88b7479c1bbce51fd8473d7b05\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\fdb9fd88b7479c1bbce51fd8473d7b05\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\04ec8bfbd31df4a7e5b48b6444d26fd5\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\04ec8bfbd31df4a7e5b48b6444d26fd5\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\78409abe9ecf92623f23b5acbe165fe4\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\78409abe9ecf92623f23b5acbe165fe4\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\52a8a801579aee5d27c4333ee1a5400a\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Oyunomin\.gradle\caches\transforms-2\files-2.1\52a8a801579aee5d27c4333ee1a5400a\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
 INJECTED from C:\Users\Oyunomin\AndroidStudioProjects\AD340\app\app\src\main\AndroidManifest.xml
