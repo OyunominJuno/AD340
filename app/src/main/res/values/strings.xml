@@ -11,6 +11,8 @@
     <string name="initial_temperature">70.0</string>
     <string name="forecast_details">Forecast Details</string>
     <string name="settings_menu_display_units">Display Units</string>
+    <string name="empty_string_current">Enter a zipcode to see the current weather</string>
+    <string name="empty_string_weekly">Enter a zipcode to see the weekly forecast</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>

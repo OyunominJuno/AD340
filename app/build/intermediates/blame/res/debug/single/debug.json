@@ -40,6 +40,10 @@
         "source": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\src\\main\\res\\menu\\settings_menu.xml"
     },
     {
+        "merged": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_fragment_current_forecast.xml.flat",
+        "source": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\src\\main\\res\\layout-sw600dp\\fragment_current_forecast.xml"
+    },
+    {
         "merged": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\Oyunomin\\AndroidStudioProjects\\AD340\\app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },

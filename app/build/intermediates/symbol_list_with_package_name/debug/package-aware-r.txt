@@ -1549,6 +1549,7 @@ id disableHome
 id dropdown_menu
 id editTextZipCode
 id edit_query
+id emptyText
 id end
 id end_padder
 id enterAlways
@@ -1652,6 +1653,7 @@ id password_toggle
 id peekHeight
 id percent
 id pin
+id progressBar
 id progress_circular
 id progress_horizontal
 id radio
@@ -1944,6 +1946,8 @@ string chip_text
 string clear_text_end_icon_content_description
 string edit_text_enter_zip
 string edit_text_zip_code_hint
+string empty_string_current
+string empty_string_weekly
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
